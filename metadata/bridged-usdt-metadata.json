@@ -1,0 +1,23 @@
+{
+  "name": "InvestArab USD (Bridged USDT) USDT",
+  "symbol": "USD₮",
+  "description": "InvestArab USD (USD₮) is a bridged stablecoin pegged 1:1 to the US Dollar and backed by InvestArab reserves. Fixed supply of 1,000,000,000, no mint function. 6 decimals, matching Tether.",
+  "decimals": 6,
+  "image": "https://investarab.com/tokens/peg-usdt-256.png",
+  "logo_uri": "https://investarab.com/tokens/peg-usdt-256.png",
+  "banner_image": "https://investarab.com/tokens/peg-usdt-256.png",
+  "external_link": "https://investarab.com/",
+  "website": "https://investarab.com/",
+  "whitepaper": "https://investarab.com/whitepaper",
+  "twitter": "https://x.com/investarab/",
+  "telegram": "https://t.me/investarab",
+  "social_links": {
+    "twitter": "https://x.com/investarab/",
+    "telegram": "https://t.me/investarab",
+    "youtube": "https://www.youtube.com/@investarab",
+    "reddit": "https://www.reddit.com/r/investarab/",
+    "linkedin": "https://www.linkedin.com/company/investarab",
+    "instagram": "https://www.instagram.com/investarab/",
+    "facebook": "https://www.facebook.com/investarab"
+  }
+}
